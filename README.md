@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangjiaze&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=liangjiaze&repo=Pycharm&show_owner=liangjiaze)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=liangjiaze&repo=VScode&show_owner=liangjiaze)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=liangjiaze&repo=SparkScalaDemo&show_owner=liangjiaze)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=liangjiaze&repo=FlinkScalaDemo&show_owner=liangjiaze)](https://github.com/anuraghazra/github-readme-stats)
